@@ -26,11 +26,11 @@ Product: Design a user dashboard for a fitness tracking app. It must include the
 
 * 3 examples of reference/inspiration. These could be products you currently use, or could be examples you find on dribbble, behance, or similar sites. They don’t have to be the same product type, but should offer good examples of how to approach organizing content and effective UX. Screen grabs are fine.
 
-** [7 Daily Moves](http://www.7dailymoves.com/?fref=ts) has gifs, icons, and a basic layout.
+  * [7 Daily Moves](http://www.7dailymoves.com/?fref=ts) has gifs, icons, and a basic layout.
 
-** [AR Fitness Coach](https://www.behance.net/gallery/45859207/AR-Virtual-Fitness-Coach-App-AR-)
+  * [AR Fitness Coach](https://www.behance.net/gallery/45859207/AR-Virtual-Fitness-Coach-App-AR-)
 
-** [Pokemon Fitness](https://www.behance.net/gallery/45859535/Pokemons-is-everywhere)
+  * [Pokemon Fitness](https://www.behance.net/gallery/45859535/Pokemons-is-everywhere)
 
 * Explain who your target user is, and how the choices you’ve made solve a problem for them, address their preferences/needs, and are tailored to them.
 
