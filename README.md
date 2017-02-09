@@ -24,16 +24,18 @@ Product: Design a user dashboard for a fitness tracking app. It must include the
 
 ## Deliverables for Phase 1:
 
-- 3 examples of reference/inspiration. These could be products you currently use, or could be examples you find on dribbble, behance, or similar sites. They don’t have to be the same product type, but should offer good examples of how to approach organizing content and effective UX. Screen grabs are fine.
+* 3 examples of reference/inspiration. These could be products you currently use, or could be examples you find on dribbble, behance, or similar sites. They don’t have to be the same product type, but should offer good examples of how to approach organizing content and effective UX. Screen grabs are fine.
 
-[7 Daily Moves](http://www.7dailymoves.com/?fref=ts) has gifs, icons, and a basic layout.
-[AR Fitness Coach](https://www.behance.net/gallery/45859207/AR-Virtual-Fitness-Coach-App-AR-)
-[Pokemon Fitness](https://www.behance.net/gallery/45859535/Pokemons-is-everywhere)
+** [7 Daily Moves](http://www.7dailymoves.com/?fref=ts) has gifs, icons, and a basic layout.
 
-- Explain who your target user is, and how the choices you’ve made solve a problem for them, address their preferences/needs, and are tailored to them.
+** [AR Fitness Coach](https://www.behance.net/gallery/45859207/AR-Virtual-Fitness-Coach-App-AR-)
 
-- Wireframes (hand-drawn is fine) of your comp for mobile and desktop – we want to see your process and thinking.
+** [Pokemon Fitness](https://www.behance.net/gallery/45859535/Pokemons-is-everywhere)
 
-- Final comps for mobile and desktop layouts built in Sketch. Button/hover/active states must be included (if and when applicable). Should be ready to hand-off to a dev team to build.
+* Explain who your target user is, and how the choices you’ve made solve a problem for them, address their preferences/needs, and are tailored to them.
+
+* Wireframes (hand-drawn is fine) of your comp for mobile and desktop – we want to see your process and thinking.
+
+* Final comps for mobile and desktop layouts built in Sketch. Button/hover/active states must be included (if and when applicable). Should be ready to hand-off to a dev team to build.
 
 
