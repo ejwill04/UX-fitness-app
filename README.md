@@ -34,8 +34,17 @@ Product: Design a user dashboard for a fitness tracking app. It must include the
 
 * Explain who your target user is, and how the choices you’ve made solve a problem for them, address their preferences/needs, and are tailored to them.
 
+  * [who is our target user?] Someone who wants to be able to track their workout and use goals as a motivator.  
+  * [how we solve a problem for them?] It serves as a motivator by allowing the user to input their goals and contrast with    their actual results
+  * [address their preferences/needs?] They want a method to track their goals
+
 * Wireframes (hand-drawn is fine) of your comp for mobile and desktop – we want to see your process and thinking.
 
-[wireframe photo](./wireframe-fitness-app.JPG)
+  * [wireframe photo](./wireframe-fitness-app.JPG)
 
 * Final comps for mobile and desktop layouts built in Sketch. Button/hover/active states must be included (if and when applicable). Should be ready to hand-off to a dev team to build.
+
+
+
+
+>>>>>>> 1e545d7b6c3a9407d9c975831b8d5d386a76da61
