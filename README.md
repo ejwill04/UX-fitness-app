@@ -36,6 +36,6 @@ Product: Design a user dashboard for a fitness tracking app. It must include the
 
 * Wireframes (hand-drawn is fine) of your comp for mobile and desktop – we want to see your process and thinking.
 
+[wireframe photo](./wireframe-fitness-app.JPG)
+
 * Final comps for mobile and desktop layouts built in Sketch. Button/hover/active states must be included (if and when applicable). Should be ready to hand-off to a dev team to build.
-
-
