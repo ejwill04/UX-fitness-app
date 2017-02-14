@@ -34,6 +34,8 @@ Product: Design a user dashboard for a fitness tracking app. It must include the
 
 * Explain who your target user is, and how the choices you’ve made solve a problem for them, address their preferences/needs, and are tailored to them.
 
+  * [who is our target user]
+
 * Wireframes (hand-drawn is fine) of your comp for mobile and desktop – we want to see your process and thinking.
 
  * [Photo of Wireframe](https://github.com/ejwill04/UX-fitness-app/blob/master/wireframe-fitness-app.JPG)
